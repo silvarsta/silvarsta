@@ -1,116 +1,120 @@
+<!-- GitHub profile README: place this file in github.com/silvarsta/silvarsta -->
 <div align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Silvana Ovarista — Full-Stack Web Developer and Applied ML Enthusiast" />
 
-# Hi, I'm Silvana Ovarista :wave:
+  <br />
 
-### Full-Stack Web Developer | Laravel & Modern Web Apps | ML & NLP Enthusiast
+  <strong>Building useful things for real people, one thoughtful detail at a time.</strong>
 
-**I turn complex workflows into web experiences that feel simple, useful, and human.**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20My%20Work-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://v1portfolio-silva.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvana-ovarista/)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/silvarsta?tab=repositories)
-
+  <a href="https://v1portfolio-silva.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/silvana-ovarista/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://github.com/silvarsta?tab=repositories">Repositories</a>
 </div>
+
+<br />
+
+## 01 — A little about me
+
+Hey, I'm **Silvana** — an Informatics Engineering graduate from **Universitas Negeri Malang** who enjoys turning complex ideas into web experiences that feel simple and intuitive.
+
+My main focus is **full-stack web development**, especially building maintainable applications, thoughtful interfaces, and reliable workflows. I also have a soft spot for **machine learning and NLP**, where research meets real-world problem-solving.
+
+> My approach: understand the problem, design for the people using it, and keep improving the details that matter.
+
+**Right now:** Programmer Intern at **PT PAL Indonesia (Persero)** through **MagangHub**, contributing to assessment, HR, career, certification, and learning-related web applications.
 
 ---
 
-## :woman_technologist: About me
+## 02 — What I work with
 
-I'm an **Informatics Engineering graduate from Universitas Negeri Malang** (GPA **3.89/4.00**) with experience in full-stack web development, frontend engineering, and applied machine learning.
+Rather than collecting every technology badge, here are the tools I actually use across different kinds of work.
 
-I enjoy working across the entire development process: understanding a problem, shaping a clear user experience, building the application, and refining it until it works well in practice.
+**Web / backend** &nbsp; `PHP` · `Laravel` · `REST APIs` · `MySQL` · `SQL`
 
-- :ship: **Currently:** Programmer Intern at **PT PAL Indonesia (Persero)** through **MagangHub**, contributing to web applications supporting assessment, HR, career, certification, and learning workflows.
-- :computer: **Previously:** Freelance Full-Stack Web Developer building websites and web-based systems for education and public-sector needs.
-- :art: **Frontend experience:** Worked on the **Majadigi** web platform with **Angular** during a Frontend Engineer internship at **SEAL**.
-- :microscope: **Research interests:** Natural language processing, machine learning, and using data to solve real-world problems.
+**Web / frontend** &nbsp; `JavaScript` · `React` · `Angular` · `Tailwind CSS` · `Bootstrap` · `HTML` · `CSS`
 
-> **How I like to build:** Understand the people and the process first. Make the interface intuitive. Keep the underlying system maintainable.
+**Data / ML** &nbsp; `Python` · `TensorFlow` · `NLP` · `Data Analysis`
 
-## :hammer_and_wrench: Tech toolkit
+**Workflow** &nbsp; `Git` · `GitHub` · `Figma` · `VS Code`
 
-**Backend & databases**
+---
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-334155?style=flat-square)
+## 03 — Things I've built
 
-**Frontend**
+*Different projects, one shared goal: making technology genuinely useful.*
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### 01 / My-SAVE
 
-**Machine learning & developer tools**
+**Interactive learning, structured for clarity.** An educational web platform with learning content, recommendation flows, and a CMS for managing dynamic content. I contributed across the frontend, backend, and content management features.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+↳ [Explore the website](https://mysafe-id.com/)
 
-## :rocket: Selected work
+### 02 / SD PLTB · Disaster preparedness assessment
 
-A few examples of the problems I've worked on, from client-facing platforms to academic and community projects.
+**Helping schools make preparedness measurable.** A web-based assessment system for elementary schools, including school data management, assessment workflows, and evaluation dashboards.
 
-| Project | What it does | Explore |
-| :--- | :--- | :--- |
-| **My-SAVE** | Interactive educational platform with structured learning content, recommendations, and a content management system. | [Website](https://mysafe-id.com/) |
-| **SD PLTB** | School disaster-preparedness assessment system with school data management, assessments, and evaluation dashboards. | Client project (private) |
-| **SI-GELAR TIKAR PSU** | System supporting housing infrastructure/utility asset handover, document verification, field inspections, and progress monitoring. | Client project (private) |
-| **Authentic Polowijen** | Cultural village information platform featuring content management, local products, activities, and digital storytelling. | [Repository](https://github.com/silvarsta/Authentic-Polowijen) |
-| **BACARAB** | Gamified web platform for learning Arabic through interactive and structured learning activities. | [Repository](https://github.com/silvarsta/Bacarab) |
+↳ *Freelance client project · Source not public*
+
+### 03 / SI-GELAR TIKAR PSU
+
+**Making complex administrative workflows easier to track.** A system supporting housing infrastructure and utility asset handover, with document verification, field inspection, progress monitoring, and role-based dashboards.
+
+↳ *Freelance client project · Source not public*
+
+### 04 / Authentic Polowijen
+
+**Bringing local culture into a digital space.** A cultural village information platform combining dynamic content management, local products, activity information, and community storytelling.
+
+↳ [Explore the repository](https://github.com/silvarsta/Authentic-Polowijen)
+
+### 05 / BACARAB
+
+**Learning Arabic through play.** A gamified educational website built around interactive learning experiences and structured modules.
+
+↳ [Explore the repository](https://github.com/silvarsta/Bacarab)
 
 <details>
-<summary><b>What about my work at PT PAL?</b></summary>
-<br>
-
-As a programmer intern, I contribute to internal web projects including **PACES (assessment)**, the **HRIS landing page**, **Career PAL**, **LSP PAL**, and **LnD PAL**. These are professional projects, so their source code is not presented here as public portfolio material.
-
-</details>
-
-## :brain: Beyond web development
-
-My academic research also explores **NLP for Indonesian legal documents**. For my thesis, I worked on an end-to-end prediction pipeline using **22,630 court decision documents**, combining named entity recognition with **IndoLegalBERT**. The reported results include **86.61% F1-score** for classification and **56.52% R-squared** for regression.
-
-I also completed the **Machine Learning learning path at Bangkit Academy 2024** and served as a **Teaching Assistant for Web Programming** at Universitas Negeri Malang.
-
-## :trophy: A few milestones
-
-- **Gold Medal** - International Capstone Expo 2024, for **Authentic Polowijen**.
-- **Silver Medal** - Tech and Trade Expo 2024.
-- **1st Place** - FESMARO Scientific Paper Competition, for a proposed AI-based legal decision support model.
-
-## :bar_chart: GitHub snapshot
-
-<details>
-<summary><b>Show contribution statistics</b></summary>
-<br>
-
-<div align="center">
-
-<img height="165" alt="Silvana's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=silvarsta&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" alt="Most used languages in Silvana's public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvarsta&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-*Language cards reflect repository contents, not a complete measure of proficiency. These third-party cards may occasionally be unavailable.*
-
+<summary><b>And the work I can't put on GitHub?</b></summary>
+<br />
+At PT PAL, I've been involved in internal products including <b>PACES (assessment)</b>, the <b>HRIS landing page</b>, <b>Career PAL</b>, <b>LSP PAL</b>, and <b>LnD PAL</b>. I can share the general areas I've worked in, but not private source code or internal project details.
 </details>
 
 ---
 
+## 04 — From practice to research
+
+Before my current internship, I worked as a **Freelance Full-Stack Web Developer**, a **Frontend Engineer Intern at SEAL** (working on the Majadigi platform with Angular), and a **Web Programming Teaching Assistant** at Universitas Negeri Malang.
+
+On the research side, my thesis explored **Indonesian legal-document NLP** using **22,630 court decisions**, named entity recognition, and **IndoLegalBERT**. The reported evaluation reached **86.61% F1-score** in classification and **56.52% R²** in regression.
+
+**A few highlights along the way**
+
+- 🥇 **Gold Medal** — International Capstone Expo 2024 · Authentic Polowijen
+- 🥈 **Silver Medal** — Tech and Trade Expo 2024
+- 🏆 **1st Place** — FESMARO Scientific Paper Competition · AI-based legal decision support concept
+- 🎓 **Bangkit Academy 2024** — Machine Learning learning path
+
+---
+
+## 05 — GitHub, in numbers
+
 <div align="center">
+  <a href="https://github.com/silvarsta">
+    <img height="175" alt="Silvana's GitHub statistics" src="https://github-stats-extended.vercel.app/api?username=silvarsta&show_icons=true&theme=algolia&include_all_commits=true" />
+    <img height="175" alt="Languages across Silvana's public GitHub repositories" src="https://github-stats-extended.vercel.app/api/top-langs/?username=silvarsta&layout=compact&langs_count=8&theme=algolia" />
+  </a>
 
-**Let's build something useful.**
+  <sub>Stats come from a third-party public service; private activity may be excluded. Language breakdown describes repository code, not expertise.</sub>
+</div>
 
-[Portfolio](https://v1portfolio-silva.vercel.app/) &nbsp; | &nbsp; [LinkedIn](https://www.linkedin.com/in/silvana-ovarista/) &nbsp; | &nbsp; [Repositories](https://github.com/silvarsta?tab=repositories)
+<br />
 
-<sub>Thanks for visiting - and happy building!</sub>
+<div align="center">
+  <img src="./assets/wave.svg" width="100%" alt="" />
 
+  <strong>Good software is built with curiosity, care, and a lot of iteration.</strong>
+
+  <p>Interested in my work? &nbsp; <a href="https://v1portfolio-silva.vercel.app/">Explore the portfolio</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/silvana-ovarista/">Let's connect</a></p>
+
+  <sub>Thanks for dropping by. ✨</sub>
 </div>
