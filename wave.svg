@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="55" viewBox="0 0 1000 55" role="img" aria-label="Decorative flowing lines">
+  <defs>
+    <linearGradient id="s" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00d2ff" stop-opacity="0"/>
+      <stop offset=".26" stop-color="#00d2ff" stop-opacity=".85"/>
+      <stop offset=".7" stop-color="#817df9" stop-opacity=".7"/>
+      <stop offset="1" stop-color="#817df9" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 29 C130 4 170 52 310 27 S510 4 620 25 S830 52 1000 20" fill="none" stroke="url(#s)" stroke-width="2.6"/>
+  <path d="M0 40 C150 21 190 60 310 40 S500 19 615 38 S810 58 1000 33" fill="none" stroke="url(#s)" stroke-width="1" opacity=".58"/>
+  <circle cx="308" cy="27" r="3" fill="#00c9ef" opacity=".8"/>
+  <circle cx="620" cy="25" r="3" fill="#817df9" opacity=".75"/>
+</svg>

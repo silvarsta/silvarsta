@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" width="1200" height="340" viewBox="0 0 1200 340">
+  <title id="title">Silvana Ovarista</title>
+  <desc id="desc">Full-stack web developer and applied ML enthusiast. Abstract teal and purple flowing lines on a deep blue background.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#06132b"/>
+      <stop offset="56%" stop-color="#082447"/>
+      <stop offset="100%" stop-color="#121947"/>
+    </linearGradient>
+    <linearGradient id="streamA" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00d8ff" stop-opacity="0"/>
+      <stop offset="44%" stop-color="#00d8ff" stop-opacity=".84"/>
+      <stop offset="100%" stop-color="#8a79ff" stop-opacity=".75"/>
+    </linearGradient>
+    <linearGradient id="streamB" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#08abdf" stop-opacity=".1"/>
+      <stop offset="45%" stop-color="#5e78ed" stop-opacity=".45"/>
+      <stop offset="100%" stop-color="#b77cf3" stop-opacity=".75"/>
+    </linearGradient>
+    <radialGradient id="violetGlow">
+      <stop offset="0%" stop-color="#7059e8" stop-opacity=".52"/>
+      <stop offset="100%" stop-color="#7059e8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="cyanGlow">
+      <stop offset="0%" stop-color="#03c8ef" stop-opacity=".32"/>
+      <stop offset="100%" stop-color="#03c8ef" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="canvas">
+      <rect width="1200" height="340" rx="26"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#canvas)">
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <circle cx="970" cy="140" r="300" fill="url(#violetGlow)"/>
+    <circle cx="720" cy="285" r="200" fill="url(#cyanGlow)"/>
+    <path d="M-20 280 C230 245 410 350 660 292 S970 205 1240 275 L1240 370 L-20 370Z" fill="#0b3869" opacity=".26"/>
+    <path d="M-20 315 C260 250 440 356 720 305 S1040 218 1240 260 L1240 370 L-20 370Z" fill="#114ba0" opacity=".17"/>
+
+    <g fill="none" stroke-linecap="round">
+      <path d="M570 315 C680 164 758 80 888 170 S1118 270 1260 -20" stroke="url(#streamB)" stroke-width="48" opacity=".34"/>
+      <path d="M600 315 C710 177 763 106 891 176 S1106 267 1250 5" stroke="url(#streamA)" stroke-width="5" opacity=".76"/>
+      <path d="M610 336 C710 206 796 145 903 212 S1115 287 1260 74" stroke="#3fcdf0" stroke-width="1.6" opacity=".52"/>
+      <path d="M645 348 C770 220 850 170 945 245 S1130 300 1240 170" stroke="#9e92ff" stroke-width="2.8" opacity=".5"/>
+      <path d="M680 -60 C762 120 860 85 951 132 S1075 158 1230 -18" stroke="#7e9efa" stroke-width="1.5" opacity=".28"/>
+      <path d="M760 -30 C840 110 920 87 1025 132 S1180 100 1270 35" stroke="#27bce1" stroke-width="1.2" opacity=".25"/>
+    </g>
+    <g fill="#90f4ff">
+      <circle cx="706" cy="208" r="4" opacity=".7"/>
+      <circle cx="868" cy="168" r="5" opacity=".8"/>
+      <circle cx="1053" cy="236" r="3.4" opacity=".62"/>
+    </g>
+    <g fill="#c5aaff">
+      <circle cx="750" cy="107" r="2.8" opacity=".8"/>
+      <circle cx="985" cy="215" r="4.7" opacity=".72"/>
+      <circle cx="1130" cy="108" r="2.8" opacity=".72"/>
+    </g>
+    <g stroke="#b7cbf6" stroke-width="1.3" opacity=".28">
+      <path d="M1090 57 l8 -8 m-8 0 l8 8"/>
+      <path d="M1052 69 h18 m-9 -9 v18"/>
+      <path d="M732 62 h12 m-6 -6 v12"/>
+      <path d="M1165 280 h12 m-6 -6 v12"/>
+    </g>
+    <text x="78" y="72" fill="#71e5fc" font-size="14" font-weight="600" letter-spacing="4" font-family="Segoe UI, Arial, sans-serif">HELLO, WORLD. I'M</text>
+    <text x="72" y="164" fill="#fbfdff" font-size="81" font-weight="800" letter-spacing="-3" font-family="Segoe UI, Arial, sans-serif">Silvana</text>
+    <text x="72" y="246" fill="#fbfdff" font-size="81" font-weight="800" letter-spacing="-3" font-family="Segoe UI, Arial, sans-serif">Ovarista<tspan fill="#57e3ff">.</tspan></text>
+    <path d="M78 272 H480" stroke="#65dbfc" stroke-width="1.4" opacity=".48"/>
+    <text x="80" y="304" fill="#b6d8ee" font-size="17" font-weight="500" letter-spacing="1.5" font-family="Segoe UI, Arial, sans-serif">FULL-STACK WEB  /  MACHINE LEARNING</text>
+  </g>
+</svg>
